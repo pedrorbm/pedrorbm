@@ -17,7 +17,7 @@ const profile = {
   },
   email: 'pedropwks@gmail.com',
   linkedin: 'https://www.linkedin.com/in/pedrorobertodev/',
-  contato: '+55 (84) 98725-1330',
+  telephone: '+55 (84) 98725-1330',
 }
 ```
 
