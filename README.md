@@ -54,8 +54,7 @@ const profile = {
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </div>
-  
-##
+
 
 <div align="center"> 
   <h1>👥 Contato</h1>
